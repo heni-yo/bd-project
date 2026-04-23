@@ -1,0 +1,19 @@
+# Compilation Java
+interface/out/
+*.class
+
+# IDE (si besoin)
+.idea/
+.vscode/
+*.iml
+
+# Fichiers OS
+Thumbs.db
+.DS_Store
+
+# Logs eventuels
+*.log
+
+# Exports temporaires
+*.csv
+*.dmp
